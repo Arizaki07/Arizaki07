@@ -1,3 +1,4 @@
+<meta http-equiv="refresh" content="5">
 ### Hey je suis Arizaki!! 👋
 
 - 🛠️・Je suis un développeur solo.
