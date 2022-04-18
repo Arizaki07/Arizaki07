@@ -1,5 +1,6 @@
 ### Hey!! 👋
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bicc9ar16gw92ro1wil1n65rx&unique={true|1|on|yes})
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
