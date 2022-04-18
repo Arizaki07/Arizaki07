@@ -1,7 +1,5 @@
 ### Hey!! 👋
 
-<img class="fit-picture"
-     src="https://imgur.com/63t5g66.gif" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,3 +13,5 @@
 
 
 ![Arizaki GitHub stats](https://github-readme-stats.vercel.app/api?username=Arizaki07&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arizaki07&theme=navy-gear&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
