@@ -1,4 +1,4 @@
-  <img align="right" alt="Arizaki" width="400" src="https://imgur.com/63t5g66.gif">
+[![MasterHead](https://imgur.com/63t5g66.gif)](https://github.com/Arizaki07)
 
 
 ### Hey!! 👋
