@@ -1,7 +1,7 @@
 ### Hey!! 👋
 
 <img class="fit-picture"
-     src="https://imgur.com/63t5g66.gif"
+     src="https://imgur.com/63t5g66.gif" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
