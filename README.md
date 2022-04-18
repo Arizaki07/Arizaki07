@@ -14,6 +14,3 @@
 
 
 ![Arizaki GitHub stats](https://github-readme-stats.vercel.app/api?username=Arizaki07&show_icons=true&theme=tokyonight)
-
-
-<img src="https://imgur.com/63t5g66.gif" width="30"/>
