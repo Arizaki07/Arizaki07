@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/63t5g66.gif)](https://github.com/Arizaki07)
+<img src="https://imgur.com/63t5g66.gif" width="300"/>
 
 
 ### Hey!! 👋
