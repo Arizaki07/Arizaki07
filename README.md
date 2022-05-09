@@ -1,5 +1,7 @@
 ### Hey je suis Arizaki!! 👋
 
+<img src="./tumblr_54a1451075660ca0d995ea44f9e640c2_cc6691b8_540.gif">
+
 - 🛠️・Je suis un développeur solo.
 - 🔒・Astral, mon langage informatique.
 - 📁・C:\Users\Arizaki\Bureau\Astral\config.json
